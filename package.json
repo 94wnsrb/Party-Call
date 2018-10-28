@@ -1,0 +1,28 @@
+{
+  "name": "party-call",
+  "version": "1.0.0",
+  "description": "Frontend for Party Call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/94wnsrb/Party-Call.git"
+  },
+  "keywords": [
+    "game",
+    "raid",
+    "party",
+    "organization"
+  ],
+  "author": "Jason Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/94wnsrb/Party-Call/issues"
+  },
+  "homepage": "https://github.com/94wnsrb/Party-Call#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
